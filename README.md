@@ -1,5 +1,5 @@
 # SVM vs. U-Net Semantic Segmentation for an Urban Area in Algeria
-This is an improved version of the code used to generate the results of [1]. Please refer to [1] for more details.
+This is an improved version of the code used to generate the results of [1]. Please refer to [1] for more details. Please cite [1] if you are to use the dataset.
 
 
 <a id="1">[1]</a>

@@ -7,6 +7,7 @@ S. B. Asma, D. Abdelhamid and L. Youyou, "U-Net Based Classification For Urban A
 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS), Tunis, Tunisia, 2020, pp. 101-104, doi: 10.1109/M2GARSS47143.2020.9105283.
 
 ## Dependencies
+- python == 3.7
 - numpy ==  1.21.6
 - pandas ==  1.3.5
 - sklearn ==  1.0.2
